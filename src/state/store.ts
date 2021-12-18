@@ -1,4 +1,4 @@
-import { createStore, Store } from "easy-peasy";
+import { createStore } from "easy-peasy";
 import { uiModel, UiModelType } from "./uiModel";
 import { mySkyModel, MySkyModelType } from "./mySkyModel";
 import { todoModel, TodoModelType } from "./todoModel";
