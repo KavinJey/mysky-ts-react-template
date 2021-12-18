@@ -1,8 +1,8 @@
 # Skynet Typescript React Template
 
 <p align="center">
-<a href="https://github.com/KavinJey/skynet-typescript-react-template/actions/workflows/lint-and-versioning.yml">
-    <img alt="code style: build" src="https://github.com/KavinJey/skynet-typescript-react-template/actions/workflows/lint-and-versioning.yml/badge.svg?branch=main">
+<a href="https://github.com/KavinJey/mysky-ts-react-template/actions/workflows/build-and-deploy.yml">
+    <img alt="code style: build" src="https://github.com/KavinJey/mysky-ts-react-template/actions/workflows/build-and-deploy.yml/badge.svg?branch=main">
 </a>
 <a href="#badge">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
@@ -12,15 +12,17 @@
      <img alt="license mit" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 </p>
 
+Checkout the demo [here](https://040dr8faf4hql4f56soolgi604dq7dl4iult4f9k2qb9l5dt1b5tji0.siasky.net)
+
 - :heavy_check_mark: Uses [Craco](https://github.com/gsoft-inc/craco) for bundling and applying custom styles.
 
-- :heavy_check_mark: [Easy Peasy](https://easy-peasy.vercel.app/) for State Management, and React Context (*Docs)
+- :heavy_check_mark: [Easy Peasy](https://easy-peasy.vercel.app/) for State Management, and React Context (\*Docs)
 
 - :heavy_check_mark: [Semantic UI](https://react.semantic-ui.com/), custom styling overrides under `/src/semantic-ui` using [Theming](https://semantic-ui.com/usage/theming.html)
 
 - :heavy_check_mark: Commit Messages are linted using [Husky](https://www.npmjs.com/package/husky) (setups after `yarn install`).
 
-- :heavy_check_mark: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [Semantic-Release](https://github.com/semantic-release/semantic-release). 
+- :heavy_check_mark: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [Semantic-Release](https://github.com/semantic-release/semantic-release).
 
 - :heavy_check_mark: Testing with [Jest](https://jestjs.io/docs/tutorial-react). Examples in `/src/components/test`. Tests can be run using `yarn test`
 
@@ -113,9 +115,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 # License
-``` 
+
+```
 MIT License
 
 Copyright (c) 2021 Jeyakavin Jeyaranjan
