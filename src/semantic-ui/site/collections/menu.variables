@@ -1,0 +1,10 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@itemTextColor: rgba(255, 255, 255, 0.8);
+@activeItemBackground: @transparentBlack;
+@activeItemTextColor: @violet;
+
+@activeHoverItemBackground: @transparentBlack;
+@activeHoverItemColor: purple;

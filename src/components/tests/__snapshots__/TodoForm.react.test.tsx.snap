@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if forms renders correctly 1`] = `
+Array [
+  <div
+    className="ui labeled input"
+  >
+    <div
+      className="ui label label"
+      onClick={[Function]}
+    >
+      todo-text
+    </div>
+    <input
+      onChange={[Function]}
+      placeholder="Todo item..."
+      type="text"
+      value=""
+    />
+  </div>,
+  <button
+    className="ui button"
+    onClick={[Function]}
+    style={
+      Object {
+        "marginLeft": "10px",
+      }
+    }
+  >
+    Add Todo
+  </button>,
+]
+`;
