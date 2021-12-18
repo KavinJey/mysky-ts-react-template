@@ -1,6 +1,13 @@
 # 1.0.0 (2021-12-18)
 
 
+### Features
+
+* v1 init ([1bbd714](https://github.com/KavinJey/mysky-ts-react-template/commit/1bbd714c73d899cf0badd4dc8e8e54e2e69b65ae))
+
+# 1.0.0 (2021-12-18)
+
+
 ### Bug Fixes
 
 * adding types to state ([57eadd5](https://github.com/KavinJey/mysky-ts-react-template/commit/57eadd585295f61129e21a65781433b4e5745f66))
