@@ -10,6 +10,7 @@
 
 <a href="https://opensource.org/licenses/MIT">
      <img alt="license mit" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    </a>
 </p>
 
 Checkout the demo [here](https://040dr8faf4hql4f56soolgi604dq7dl4iult4f9k2qb9l5dt1b5tji0.siasky.net)
