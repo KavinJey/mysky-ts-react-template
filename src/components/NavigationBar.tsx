@@ -59,13 +59,13 @@ const NavigationBar = () => {
               <MySkyButton />
             </Menu.Item>
           </Menu.Menu>
-           <Menu.Item>
-              <Image
-                as="a"
-                src="https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d"
-                href="https://homescreen.hns.siasky.net/#/skylink/AQBGXteYgqc--AOyYTwxIjcXNizbefrm2F7VEuzvQlvZIg"
-              />
-            </Menu.Item>
+          <Menu.Item>
+            <Image
+              as="a"
+              src="https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d"
+              href="https://homescreen.hns.siasky.net/#/skylink/AQBGXteYgqc--AOyYTwxIjcXNizbefrm2F7VEuzvQlvZIg"
+            />
+          </Menu.Item>
         </Container>
         <MessageDisplay />
       </Menu>
